@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-development, cyber security, and linux desktop environments
 - 🌱 I’m currently learning html5, css, js, react.js, tailwind.css, and kali linux
 - 💞️ I’m looking to collaborate on any front-end development projects
-- 📫 How to reach me; @print_whoami is my Twitter handle and you can also email me; mbhoni@proton.me
+- 📫 How to reach me; @Mbhoni is my freeCodeCamp profile, I'm also reachable on Discord as @Gypsy
 
 <!---
 Mbhon1/Mbhon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
