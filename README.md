@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mbhon1
-- 👀 I’m interested in web-development, cyber security, and linux desktop environments
+- 👀 I’m interested in web-development, infoSec, and linux desktop environments
 - 🌱 I’m currently learning html5, css, js, react.js, tailwind.css, and kali linux
 - 💞️ I’m looking to collaborate on any front-end development projects
 - 📫 How to reach me; @Mbhoni is my freeCodeCamp profile, I'm also reachable on Discord as @Gypsy
