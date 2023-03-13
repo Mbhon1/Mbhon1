@@ -3,8 +3,12 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/mbhoni-baloyi-6870ba175">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://ioc.exchange/@mbhon1">
+    <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+  </a>
+  
+  <a href="https://www.reddit.com/u/print_whoami/">
+    <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 
   <a href="https://www.instagram.com/return.whoami/">
