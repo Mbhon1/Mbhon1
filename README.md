@@ -68,6 +68,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mbhon1&theme=solarized-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mbhon1&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&currStreakNum=EBA119&fire=EBA119&dates=EBA119)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbhon1&layout=compact&langs_count=10&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
