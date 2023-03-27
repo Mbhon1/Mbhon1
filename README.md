@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/monstercat-edm-electronic-music-3o72FaZgzzFmqoNfBm" />
+  <img src="https://giphy.com/gify/monstercat-edm-electronic-music-3o72FaZgzzFmqoNfBm" />
 </div>
 
 <div id="badges">
@@ -28,7 +28,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/batman-arkham-footage-QHE5gWI0QjqF2" width="600" height="300"/>
+  <img src="https://giphy.com/gify/batman-arkham-footage-QHE5gWI0QjqF2" width="600" height="300"/>
 </div>
 
 ---
