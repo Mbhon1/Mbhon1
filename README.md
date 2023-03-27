@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gify/monstercat-edm-electronic-music-3o72FaZgzzFmqoNfBm" />
-</div>
+### :monocle_face: Socials :
 
 <div id="badges">
   <a href="https://ioc.exchange/@mbhon1">
